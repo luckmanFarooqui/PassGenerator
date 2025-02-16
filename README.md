@@ -1,8 +1,8 @@
-## Password Generator 🔒
+# Password Generator 🔒
 
 - A simple Password Generator using HTML, CSS, and JavaScript. It creates strong passwords based on user preferences.
 
-# Features
+## Features
 
 - Generate strong passwords
 
@@ -12,7 +12,7 @@
 
 - Copy password to clipboard
 
-# Usage
+## Usage
 
 - Open index.html in a browser.
 
